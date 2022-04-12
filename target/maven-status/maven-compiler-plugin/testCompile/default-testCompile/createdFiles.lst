@@ -1,0 +1,12 @@
+org/travel/agency/dao/RoleDAOTest.class
+org/travel/agency/dao/UserDAOTest.class
+org/travel/agency/dao/HotelDAOTest.class
+org/travel/agency/service/CountryServiceTest.class
+org/travel/agency/dao/RoomDAOTest.class
+org/travel/agency/validation/HotelValidatorTest.class
+org/travel/agency/mapper/UserRolesMapperTest.class
+org/travel/agency/service/UserServiceTest.class
+org/travel/agency/dao/CountryDAOTest.class
+org/travel/agency/controller/AuthControllerTest.class
+org/travel/agency/dao/OrderDAOTest.class
+org/travel/agency/service/HotelServiceTest.class
